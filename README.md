@@ -59,7 +59,7 @@ git add .
 git commit -m "Primer commit"
 ```
 
-## Comandos para Git
+## Comandos para Git (prueba entre paréntesis)
 
 Para mostrar las ramas:
 ```bash

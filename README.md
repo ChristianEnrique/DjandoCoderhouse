@@ -52,7 +52,7 @@ git init
 
 Nota: Git puede pedirte tu configuración (nombre y email) si aún no lo has hecho.
 
-## Primer commit y nueva rama de desarrollo
+## Primer commit y nueva rama de desarrollo (prueba entre paréntesis)
 
 ```bash
 git add .

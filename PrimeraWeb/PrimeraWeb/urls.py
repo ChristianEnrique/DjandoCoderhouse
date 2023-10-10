@@ -16,7 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from PrimeraWeb.views import saludo, salud_con_input, aleatorio
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('saludo/', saludo),
+    path('saludo-input/', salud_con_input),
+    path('aleatorio/', aleatorio),
 ]
